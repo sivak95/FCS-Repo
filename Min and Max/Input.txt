@@ -1,0 +1,6 @@
+1,annanagar,5:00,10,C
+2,tnagar,6:20,20,C
+3,mogappair,8:30,30,C
+4,kelambakkam,1:50,40,C
+5,shenoynagar,9:45,60.25,K
+5,ashoknagar,10:55,50.75,F
